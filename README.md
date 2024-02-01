@@ -19,4 +19,7 @@ With this model the company can identify the creditworthiness of borrowers and c
 
 
 
+
+
+
 *** The code files and data files are inside the Credit_Risk folder.***
